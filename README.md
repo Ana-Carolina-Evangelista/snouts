@@ -26,9 +26,20 @@ Este projeto utiliza **Machine Learning** com **CoreML** e **CreateML** para cla
 
 ## 👥 Desenvolvido por
 
-[Alana Abdias (github.com/Alana-Abdias)]
-[Ana Carolina (github.com/@Ana-Carolina-Evangelista)]
-[Carolina Sun (github.com/@carolssun)]
-[Jonas Melo (github.com/@JonasFNMelo)]
-[Pedro Henrique Moreiras (github.com/@pepeu31)]
-[Rafael Neves (github.com/@OliveiraRNeves)]
+<b> Alana Abdias </b> <a href="https://www.linkedin.com/in/jonas-melo-850a242b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="github.com/Alana-Abdias"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br>
+
+<b> Ana Carolina </b> <a href="https://www.linkedin.com/in/ana-carolina-evangelista-da-costa-b2a090350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"/></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <br>
+
+<b> Carolina Sun </b> <a href="https://www.linkedin.com/in/carolina-sun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/@carolssun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <br>
+
+<b> Jonas Melo </b> <a href="https://www.linkedin.com/in/jonas-melo-850a242b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https:github.com/@JonasFNMelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br>
+
+<b> Pedro Moreiras </b> <a href="https://www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <br>
+
+<b> Rafael Neves </b> <a href="https://www.linkedin.com/in/rafael-oneves?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/@OliveiraRNeves"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
